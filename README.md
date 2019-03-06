@@ -1,0 +1,3 @@
+# fcc-snippets
+
+This repo contains javascript snippets used to solve challenges for the fcc course content. It ain't pretty...
