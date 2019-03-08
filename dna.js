@@ -27,4 +27,4 @@ function pairElement2(str) {
   return result;
 }
 
-console.log(pairElement2("GCG"));
+console.log(pairElement2("GCGT"));
