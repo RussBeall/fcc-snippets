@@ -86,7 +86,7 @@ function convertToRoman(num) {
 }
 
 console.log(convertToRoman(36), 36);
-console.log(convertToRoman(2), 2); // should return "II".
+console.log(convertToRoman(2), 2); // should return "II". //
 console.log(convertToRoman(3), 3); // should return "III".
 console.log(convertToRoman(4), 4); // should return "IV".
 console.log(convertToRoman(5), 5); // should return "V".
