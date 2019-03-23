@@ -2,7 +2,7 @@
 
 This repo contains javascript snippets used to solve challenges for the fcc course content. It ain't pretty...
 
-## Extending the markup here for the Markup Previwer project
+## Extending the markup here for the Markup Previewer project
 
 Test requirements: contain valid markdown that represents at least one of each of the following elements: a header (H1 size), a sub header (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text.
 
